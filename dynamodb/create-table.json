@@ -1,5 +1,5 @@
 {
-    "TableName": "simple-web-app",
+    "TableName": "simple-mann-dynamo",
     "KeySchema": [
       { "AttributeName": "ProjectName", "KeyType": "HASH" },
       { "AttributeName": "URL", "KeyType": "RANGE" }
