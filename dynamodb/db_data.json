@@ -25,19 +25,6 @@
             }
           }
         }
-      },
-    {
-        "PutRequest": {
-          "Item":
-          {
-            "ProjectName": {
-              "S": "EJ"
-            },
-            "URL": {
-              "S": "is awesome!"
-            }
-          }
-        }
       }
     ]
   }
