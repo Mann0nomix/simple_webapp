@@ -5,10 +5,10 @@
           "Item":
           {
             "ProjectName": {
-              "S": "freeCodeCamp"
+              "S": "strength"
             },
             "URL": {
-              "S": "https://github.com/freeCodeCamp/freeCodeCamp"
+              "S": "martial arts"
             }
           }
         }
@@ -18,10 +18,23 @@
           "Item":
           {
             "ProjectName": {
-              "S": "trending"
+              "S": "music"
             },
             "URL": {
-              "S": "https://github.com/trending"
+              "S": "psytrance"
+            }
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item":
+          {
+            "ProjectName": {
+              "S": "name"
+            },
+            "URL": {
+              "S": "EJ"
             }
           }
         }
