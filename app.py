@@ -8,7 +8,7 @@ app = Flask(__name__)
 @app.route('/')
 def index():
     OSINFO=os.uname()
-    TEXT=f"#simple-webapp running on EC2 @ **{OSINFO.nodename}**"
+    TEXT=f"#simple-mann-app running on EC2 @ **{OSINFO.nodename}**"
     return markdown.markdown(TEXT)
 
 @app.route('/get-items')
