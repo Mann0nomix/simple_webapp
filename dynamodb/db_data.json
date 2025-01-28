@@ -38,6 +38,19 @@
             }
           }
         }
+      },
+      {
+        "PutRequest": {
+          "Item":
+          {
+            "ProjectName": {
+              "S": "tech_stack"
+            },
+            "URL": {
+              "S": "Google"
+            }
+          }
+        }
       }
     ]
   }
